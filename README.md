@@ -1,5 +1,5 @@
 
-### **README: Banking System Project**
+### **Banking System Project**
 
 This repository contains the source code for a basic **Banking System**. This project is a learning tool designed to demonstrate fundamental software development concepts, including user management, transaction processing, and data persistence. The system will be built incrementally, with each new feature developed and integrated to create a fully functional application.
 
@@ -29,7 +29,7 @@ The project will be developed to include the following key features:
 To run and contribute to this project, you will need the following installed on your machine:
 
   * **Git**: For version control.
-  * **[Programming Language/Framework]**: C++
+  * **Programming Language**: C++
 
 ### **Installation**
 
