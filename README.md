@@ -1,7 +1,3 @@
-# Banking-System
-I will give you a comprehensive README for the banking system project, broken down into sections.
-
------
 
 ### **README: Banking System Project**
 
